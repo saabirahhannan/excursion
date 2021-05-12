@@ -2,5 +2,15 @@ body {
     background-color: black;
     text-align: center;
     font-family: Verdana;
-    
+}
+
+.main-header{
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+}
+
+.main-header-link {
+    font-size: 16px;
+    color: aquamarine;
 }
