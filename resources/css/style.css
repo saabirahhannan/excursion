@@ -10,11 +10,12 @@ body {
     color: white;
 }
 
-.secondary-header {
+.secondary-header, .header-3 {
     font-weight: 300;
     font-size: 42px;
     color: white;
 }
+
 /* DESCRIPTIONS */
 .description {
     font-size: 21px;
@@ -23,7 +24,7 @@ body {
 }
 
 /* LINKS */
-.main-header-link {
+.main-header-link, .header-3-link {
     font-size: 16px;
     color: aquamarine;
 }
